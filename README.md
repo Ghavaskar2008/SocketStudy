@@ -80,9 +80,8 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
-Client Side:
 <img width="464" height="84" alt="Screenshot 2026-05-14 144012" src="https://github.com/user-attachments/assets/1d952391-3362-434d-a26a-0e91c8448e54" />
-Server Side:
+
 <img width="687" height="110" alt="image" src="https://github.com/user-attachments/assets/d92507a6-5208-4bfc-bc56-363e27baa220" />
 
 ## Result:
